@@ -1,4 +1,4 @@
-# ⛽ Agente Inteligente para Controle de Combustível
+# ⛽  Simulação Agente Inteligente para Controle de Combustível
 
 Simulação de um **agente reativo** que decide *quando* e *quanto* abastecer um veículo,
 equilibrando o **nível do tanque** e a **oportunidade de preço**. O projeto compara o agente
